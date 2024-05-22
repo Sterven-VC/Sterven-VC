@@ -6,7 +6,7 @@ Computer and systems engineer
 
 * 🌍  I'm based in Perú - Chiclayo
 * ✉️  You can contact me at [steven.vera.carranza@gmail.com](mailto:steven.vera.carranza@gmail.com)
-* 🚀  I'm currently working on [Ingytal](http://https://ingytal.com)
+* 🚀  I'm currently working on [Ingytal](http://ingytal.com)
 * 🧠  I'm learning Flask
 
 ### Skills
